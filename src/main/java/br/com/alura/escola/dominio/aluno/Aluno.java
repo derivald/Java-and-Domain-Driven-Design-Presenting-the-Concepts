@@ -32,8 +32,8 @@ public class Aluno {
 		
 	}
 
-	public String getCpf() {
-		return cpf.getNumero();
+	public CPF getCpf() {
+		return cpf;
 	}
 
 	public String getNome() {
