@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.escola.dominio.aluno.Telefone;
+import br.com.alura.escola.academico.dominio.aluno.Telefone;
 
 class TelefoneTest {
 
