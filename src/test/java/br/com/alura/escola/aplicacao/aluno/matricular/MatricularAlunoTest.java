@@ -7,8 +7,8 @@ import org.junit.jupiter.api.Test;
 import br.com.alura.escola.academico.aplicacao.aluno.matricular.MatricularAluno;
 import br.com.alura.escola.academico.aplicacao.aluno.matricular.MatricularAlunoDto;
 import br.com.alura.escola.academico.dominio.aluno.Aluno;
-import br.com.alura.escola.academico.dominio.aluno.CPF;
 import br.com.alura.escola.academico.infra.aluno.RepositorioDeAlunosEmMemoria;
+import br.com.alura.escola.shared.dominio.CPF;
 
 class MatricularAlunoTest {
 
